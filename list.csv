@@ -108,7 +108,7 @@ Date,Acquirer,Target,Amount,Currency,Main activities/assets,Proprietary/Open,Ref
 16/10/2015,RedHat,Ansible,150000000,USD,"Ansible : orchestration software, configuration management",Open,https://www.redhat.com/en/about/press-releases/red-hat-acquire-it-automation-and-devops-leader-ansible
 21/10/2015,Docker,Tutum,,,"Tutum, cloud service to deploy and manage Docker applications",,https://www.docker.com/blog/docker-acquires-tutum/
 21/10/2015,Twitter,Fastlane,,,FastLane development automation system,Open,https://thenextweb.com/news/fastlane-can-now-be-used-with-twitters-fabric-developer-tools
-02/11/2015,Permira,eBay Entreprise (Magento),925000000,USD,Magento  ecommerce platform,Open,https://www.permira.com/media-centre/news/sterling-partners-and-permira-funds-to-acquire-ebay-enterprise/
+02/11/2015,Permira,eBay Entreprise (Magento),925000000,USD,Magento  ecommerce platform,Open,https://www.businesswire.com/news/home/20150716005664/en/Sterling-Partners-and-Permira-Funds-to-Acquire-eBay-Enterprise
 10/11/2015,RhodeCode,Appenlight,,,application-performance-monitoring provider,,https://rhodecode.com/blog/104/rhodecode-completes-acquisition-of-appenlight
 18/01/2016,Axway,Appcelerator,,,Titanium SDK :framework for native crossplatform mobile apps,Open,https://www.appcelerator.com/press-releases/axway-announces-the-acquisition-of-appcelerator/
 21/01/2016,Docker,Unikernel Systems,,,"Contribs to Unikernel, MirageOS, Rumprun, Irmin, Jitsu + commercial applications",,https://www.docker.com/docker-news-and-press/docker-acquires-unikernel-systems-extend-breadth-docker-platform
