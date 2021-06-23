@@ -1,39 +1,39 @@
-Date,Acquirer,Target,Amount,Currency,Main activities/assets,Proprietary/Open,Reference
+Date,Acquirer,Target,Amount,Currency,Main activities/assets,Closed/Open,Reference
 11/01/2000,RedHat,Cygnus Solutions Limited,674444000,USD,"gcc, gdb, binutils, cygwin,…",Open,https://www.redhat.com/fr/about/press-releases/press-cygnusacquisition
 26/05/2000,RedHat,Bluecurve,37107000,USD,Server Performance Management Solution,,https://www.redhat.com/fr/about/press-releases/press-bluecurveacquisition
 14/06/2000,Akopia,Minivend,,,High-performance commerce engine also written in Perl and released under the GPL.,Open,https://sourceforge.net/p/tallyman/mailman/tallyman-announce/
 01/08/2000,RedHat,Wirespeed Communications,83963000,USD,Network and telecommunications components for embedded systems software,,https://www.redhat.com/fr/about/press-releases/press-wirespeedacquisition
 29/08/2000,Caldera,SCO Server Software Division,,,Linux distributions editor,,https://gcn.com/articles/2000/08/29/distributor-caldera-acquires-part-of-unix-vendor.aspx
 15/08/2000,RedHat,Hell's Kitchen Systems,85624000,USD,E-commerce payment software,Open,https://www.redhat.com/fr/about/press-releases/press-hellskitchen
-13/09/2000,RedHat,C2Net,42700000,USD,Stronghold secure webserver software,Proprietary,https://www.redhat.com/en/about/press-releases/press-c2netfinished
+13/09/2000,RedHat,C2Net,42700000,USD,Stronghold secure webserver software,Closed,https://www.redhat.com/en/about/press-releases/press-c2netfinished
 05/02/2001,RedHat,Akopia,,,Interchange e-commerce platform,Open,https://www.redhat.com/en/about/press-releases/133
 28/02/2001,RedHat,Planning Technologies,47000000,USD,Infrastructure consulting,,https://www.redhat.com/fr/about/press-releases/137
 05/09/2001,Systran,Aurora,,,Publisher and integrator of Open Source and Linux solutions,,https://www.globenewswire.com/fr/news-release/2001/09/05/282475/669/en/Aurora-French-Integrator-of-Open-Source-Applications-Acquired-by-the-SYSTRAN-Group.html
 11/02/2002,RedHat,ArsDigita,,,ArsDigita Community System (ACS),Open,https://www.cnet.com/news/red-hat-grabs-last-pieces-of-arsdigita/
 02/04/2002,VA Linux,Andover.net,900000000,USD,Linux news website,,https://www.cnet.com/news/va-linux-buys-andover-net/
-15/10/2002,RedHat,NOCpulse,,,NOCpulse Command Center,Proprietary,https://www.cnet.com/news/red-hat-reels-in-new-network-services/
+15/10/2002,RedHat,NOCpulse,,,NOCpulse Command Center,Closed,https://www.cnet.com/news/red-hat-reels-in-new-network-services/
 04/08/2003,Novell,Ximian,,,"Mono and desktop apps, GNOME support",Open,https://www.zdnet.com/article/novell-acquires-ximian/
 04/11/2003,Novell,SUSE,210000000,USD,SUSE Linux Enteprise,Open,https://www.suse.com/fr-fr/news/novell_closing/
-18/12/2003,RedHat,Sistina Software,31000000,USD,"Global File System (GFS), logical volume management (LVM), device mapper (DM)",Proprietary,https://www.redhat.com/fr/about/press-releases/press-sistina
+18/12/2003,RedHat,Sistina Software,31000000,USD,"Global File System (GFS), logical volume management (LVM), device mapper (DM)",Closed,https://www.redhat.com/fr/about/press-releases/press-sistina
 30/09/2004,RedHat,Netscape Enterprise Solutions,,,Netscape Enterprise Suite : Directory Server and Certificate Management System,Open,https://www.redhat.com/fr/about/press-releases/press-netscapeenterprisesolutions
 10/05/2005,IBM,Gluecode,,,Joe : infrastructure software based on Apache Geronimo,,https://www.computerworld.com/article/2556275/update--ibm-buys-open-source-developer-gluecode.html
-16/08/2005,Google,Android,50000000,USD,Android OS,Proprietary,https://www.cnet.com/news/google-buys-android/
+16/08/2005,Google,Android,50000000,USD,Android OS,Closed,https://www.cnet.com/news/google-buys-android/
 09/11/2005,Google,Skia,,,Skia Graphics Engine is an open-source graphics library,Open,https://www.crunchbase.com/acquisition/google-acquires-skia--ad6cccc9
 14/02/2006,Oracle,Sleepycat Software,,,Berkeley DB (BDB),Open,https://www.oracle.com/corporate/pressrelease/oracle-buys-sleepycat-021406.html
-10/04/2006,RedHat,Jboss Developer,420000000,USD,Jboss Application Server,Proprietary,https://www.redhat.com/fr/about/press-releases/jboss
-13/04/2007,Sun Microsystems,SavaJe,,,Java-based operating system for cellphones,Proprietary,https://www.rcrwireless.com/20070413/archived-articles/sun-buys-up-savaje-but-motive-remains-unclear-2
-02/06/2007,RedHat,MetaMatrix,,,MetaMatrix (Enterprise Information Integration (EII)),Proprietary,https://www.redhat.com/fr/blog/red-hat-completes-metamatrix-transaction
+10/04/2006,RedHat,Jboss Developer,420000000,USD,Jboss Application Server,Closed,https://www.redhat.com/fr/about/press-releases/jboss
+13/04/2007,Sun Microsystems,SavaJe,,,Java-based operating system for cellphones,Closed,https://www.rcrwireless.com/20070413/archived-articles/sun-buys-up-savaje-but-motive-remains-unclear-2
+02/06/2007,RedHat,MetaMatrix,,,MetaMatrix (Enterprise Information Integration (EII)),Closed,https://www.redhat.com/fr/blog/red-hat-completes-metamatrix-transaction
 19/06/2007,RedHat,Mobicents,,,Open Source VoIP Platform,Open,https://www.redhat.com/fr/blog/red-hat-and-mobicents-making-open-source-strategic-for-telecom-carriers
 15/08/2007,Citrix,XenSource,500000000,USD,Xen : virtualisation software,Open,https://www.cnet.com/news/citrix-to-buy-virtualization-company-xensource-for-500-million/
 17/09/2007,Yahoo,Zimbra,350000000,USD,Zimbra Collaboration Suite,Open,https://techcrunch.com/2007/09/17/breaking-yahoo-acquires-zimbra-for-350-million/
-13/11/2007,Sun Microsystems,Vaau,,,Vaau RBACx (Sun Role Manager/Oracle Identity Analytics) identity management,Proprietary,https://www.prweb.com/releases/sun_microsystems/identity/prweb569188.htm
+13/11/2007,Sun Microsystems,Vaau,,,Vaau RBACx (Sun Role Manager/Oracle Identity Analytics) identity management,Closed,https://www.prweb.com/releases/sun_microsystems/identity/prweb569188.htm
 28/01/2008,Nokia,Trolltech,153000000,USD,Qt : GUI library,Open,https://www.globenewswire.com/news-release/2008/01/28/1848842/0/en/Nokia-to-acquire-Trolltech-to-accelerate-software-strategy.html
 13/02/2008,Sun Microsystems,Innotek,,,VirtualBox,Open,https://venturebeat.com/2008/02/13/sun-continues-open-source-rampage-buys-pc-virtualization-company-innotek/
 26/02/2008,Sun Microsystems,MySQL,1000000000,USD,Database products (MySQL…),Open,http://www.prweb.com/releases/mysql/enterprise/prweb724824.htm
 14/03/2008,RedHat,Amentra,,,Systems integration services,,https://www.redhat.com/fr/about/press-releases/amentra
 27/05/2008,Coverity,Codefast,,,Build management tools,,https://venturebeat.com/2008/05/27/software-improvement-company-coverity-acquires-codefast/
 04/06/2008,RedHat,Identyx,,,Identity integration provider,Open,https://www.redhat.com/fr/blog/introducing-red-hat-enterprise-ipa-10
-24/06/2008,Nokia,Symbian,264000000,EUR,Symbian OS,Proprietary,https://mashable.com/2008/06/23/nokia-acquires-symbian/?europe=true
+24/06/2008,Nokia,Symbian,264000000,EUR,Symbian OS,Closed,https://mashable.com/2008/06/23/nokia-acquires-symbian/?europe=true
 04/09/2008,RedHat,Qumranet,107000000,USD,"KVM, SPICE",Open,https://www.redhat.com/fr/about/press-releases/qumranet
 20/04/2009,Oracle,Sun Microsystems,7400000000,USD,"Java, MySQL, Solaris, StarOffice, …",Open,https://www.oracle.com/corporate/pressrelease/oracle-buys-sun-042009.html
 10/08/2009,VMWare,SpringSource,420000000,USD,"tc Server, Hyperic, GemFire, ERS (Apache), RabbitMQ, GemFire",Open,http://www.globenewswire.com/fr/news-release/2009/08/10/1326315/0/en/VMware-to-Acquire-SpringSource.html
@@ -52,20 +52,20 @@ Date,Acquirer,Target,Amount,Currency,Main activities/assets,Proprietary/Open,Ref
 01/07/2011,Alfresco,SambaStream,,,SambaJAM : collaboration tools on top of Alfresco,,https://davidgildeh.com/2011/08/18/sambastream-acquired-new-role-alfresco/
 17/08/2011,eBay,Magento,180000000,USD,Magento plateforme de ecommerce,Open,https://www.ebayinc.com/stories/news/ebay-inc-completes-acquisition-magento/
 04/10/2011,RedHat,Gluster,136000000,USD,GlusterFS,Open,https://www.redhat.com/fr/about/press-releases/red-hat-to-acquire-gluster
-24/10/2011,Appcelerator,ParticleCode,,,Cross-platform mobile gaming and HTML5 development platform,Proprietary,https://techmonitor.ai/techonology/software/appcelerator-to-acquire-particle-code-251011
-09/02/2012,Appcelerator,Cocoafish,,,"Backend services such as push notifications, social integration, sharing, location",Proprietary,https://gigaom.com/2012/02/09/appcelerator-gobbles-up-mobile-backend-provider-cocoafish/
+24/10/2011,Appcelerator,ParticleCode,,,Cross-platform mobile gaming and HTML5 development platform,Closed,https://techmonitor.ai/techonology/software/appcelerator-to-acquire-particle-code-251011
+09/02/2012,Appcelerator,Cocoafish,,,"Backend services such as push notifications, social integration, sharing, location",Closed,https://gigaom.com/2012/02/09/appcelerator-gobbles-up-mobile-backend-provider-cocoafish/
 28/02/2013,Rackspace,ObjectRocket,,,MongoDB database as a service (DBaaS) provider,,https://www.rackspace.com/newsroom/objectrocket
-20/03/2012,EMC,Pivotal Labs,,,"Greenplum :massively parallel data platform for analytics, machine learning and AI",Proprietary,https://corporate.delltechnologies.com/en-us/newsroom/announcements/2012/03/20120320-02.htm
+20/03/2012,EMC,Pivotal Labs,,,"Greenplum :massively parallel data platform for analytics, machine learning and AI",Closed,https://corporate.delltechnologies.com/en-us/newsroom/announcements/2012/03/20120320-02.htm
 27/03/2012,Blackboard,Moodlerooms,,,Services for Moodle,,https://www.prnewswire.com/news-releases/blackboard-acquires-moodlerooms-netspot-144271125.html
 27/06/2012,RedHat,FuseSource,,,Fuse ESB (entreprise service bus) / integration platform,Open,https://www.redhat.com/fr/about/press-releases/red-hat-to-acquire-fusesource
 23/07/2012,VMWare,Nicira,1260000000,USD,"SDN, Open vSwitch services and network virtualization for open source initiatives",,https://www.vmware.com/company/news/releases/2012/vmw-nicira-07-23-12.html
 09/08/2012,Digia,Qt (de Nokia),,,Qt : GUI library,Open,https://www.qt.io/blog/2012/08/09/digia-extends-its-commitment-to-qt-with-plans-to-acquire-full-qt-software-technology-and-business-from-nokia-4
-13/08/2012,Twitter,Clutch IO,,,"Clutch : library for native iOS applications designed to help you develop faster,",Proprietary,https://blog.twitter.com/engineering/en_us/a/2012/open-sourcing-clutchio.html
-28/08/2012,RedHat,Polymita,,,Business process management (BPM) platform (gestion processus métier),Proprietary,https://www.redhat.com/fr/about/press-releases/red-hat-acquires-bpm-technology-from-polymita
+13/08/2012,Twitter,Clutch IO,,,"Clutch : library for native iOS applications designed to help you develop faster,",Closed,https://blog.twitter.com/engineering/en_us/a/2012/open-sourcing-clutchio.html
+28/08/2012,RedHat,Polymita,,,Business process management (BPM) platform (gestion processus métier),Closed,https://www.redhat.com/fr/about/press-releases/red-hat-acquires-bpm-technology-from-polymita
 18/10/2012,Carbonite,Zmanda,14750000,USD,Open source backup tools AMANDA and Zmanda Recovery Manager for MySQL.,Open,https://www.prnewswire.com/news-releases/carbonite-completes-acquisition-of-zmanda-176757881.html
-07/11/2012,Appcelerator,Nodeable,,,StreamReduce : big data software.,Proprietary,https://www.appcelerator.com/press-releases/appcelerator-acquires-nodeable-real-time-mobile-analytics/
-20/12/2012,RedHat,ManageIQ,104000000,USD,"ManageIQ, software to deploy/manage/optimize private clouds, virtualized infra.",Proprietary,https://www.redhat.com/fr/about/press-releases/red-hat-signs-definitive-agreement-acquire-manageiq
-24/01/2013,Automattic,Simperium,,,Simplenote : notes collaboratives,Proprietary,https://www.reuters.com/article/idUS186652860620130124
+07/11/2012,Appcelerator,Nodeable,,,StreamReduce : big data software.,Closed,https://www.appcelerator.com/press-releases/appcelerator-acquires-nodeable-real-time-mobile-analytics/
+20/12/2012,RedHat,ManageIQ,104000000,USD,"ManageIQ, software to deploy/manage/optimize private clouds, virtualized infra.",Closed,https://www.redhat.com/fr/about/press-releases/red-hat-signs-definitive-agreement-acquire-manageiq
+24/01/2013,Automattic,Simperium,,,Simplenote : notes collaboratives,Closed,https://www.reuters.com/article/idUS186652860620130124
 15/02/2013,KISSMetrics,SourceNinja,,,Startup offering to help companies manage security flaws in their open source libraries,,https://techcrunch.com/2013/02/15/kissmetrics-acquires-sourceninja/
 29/03/2013,Rackspace,Exceptional Cloud Services,,,Toolset for developers deploying and managing applications in the open cloud,,https://www.rackspace.com/newsroom/rackspace-adds-error-tracking-and-redis-as-a-service-to-developer-toolset-with-acquisition-of-exceptional-cloud-services
 22/04/2013,Pentaho,Webdetails,,,Dashboard and UI Specialist,,https://www.hitachivantara.com/en-us/newsroom-hvtv/in-the-press/2013/gl130422.html
@@ -77,7 +77,7 @@ Date,Acquirer,Target,Amount,Currency,Main activities/assets,Proprietary/Open,Ref
 13/08/2013,Twitter,Marakana,,,Services de formations pour développement open-source,,https://blog.twitter.com/engineering/en_us/a/2013/twitter-university-building-a-world-class-engineering-organization.html
 20/08/2013,Powow AS,Gitorious AS,,,"Gitorious : software forge, git repository management",Open,https://gitorious.wordpress.com/2013/08/20/powow-as-acquires-gitorious-as/
 21/08/2013,Rogue Wave Software,OpenLogic,,,Services and support for serveral open-source technologies,,https://www.openlogic.com/press-release/rogue-wave-software-acquires-openlogic
-22/08/2013,Appcelerator,Singly,,,Singly : a developer platform for integrating third-party services (API management),Proprietary,https://www.appcelerator.com/press-releases/appcelerator-acquires-singly-expanding-capabilities-to-mobilize-any-data-source/
+22/08/2013,Appcelerator,Singly,,,Singly : a developer platform for integrating third-party services (API management),Closed,https://www.appcelerator.com/press-releases/appcelerator-acquires-singly-expanding-capabilities-to-mobilize-any-data-source/
 07/10/2013,Cisco,Sourcefire,2700000000,USD,Snort : open source intrusion-detection system software + cyber security solutions.,Open,https://www.cisco.com/c/en/us/about/corporate-strategy-office/acquisitions/sourcefire.html
 21/10/2013,Rackspace,ZeroVM (de LiteStack),,,"ZeroVM, a lightweight open-source hypervisor and built to run cloud applications",Open,https://www.zdnet.com/article/rackspace-picks-up-zerovms-built-for-cloud-hypervisor/
 07/01/2014,RedHat,CentOS,,,"Distribution Linux, clone RHEL",Open,https://www.redhat.com/fr/about/press-releases/red-hat-and-centos-join-forces
@@ -93,7 +93,7 @@ Date,Acquirer,Target,Amount,Currency,Main activities/assets,Proprietary/Open,Ref
 15/09/2014,Micro-Focus,Attachmate,1200000000,USD,"SUSE, Ximian (Mono, …),…",Open,https://www.attachmate.com/company/news/press/2014/micro-focus-international-completes-merger-with-the-attachmate-group.html
 18/09/2014,RedHat,FeedHenry,82000000,USD,"Platform to design, develop, deploy and manage applications for mobile devices",Open,https://www.redhat.com/fr/about/press-releases/red-hat-acquire-feedhenry-adds-enterprise-mobile-application-platform
 07/10/2014,Docker,Koality,,,Continious integration solution,,https://www.businesswire.com/news/home/20141007005035/en/Docker-Acquires-Koality-to-Accelerate-Development-of-Docker-Hub-Enterprise
-02/12/2014,Ghost,Roon.io,,,Roon.io : blogging platform,Proprietary,https://ghost.org/changelog/roon/
+02/12/2014,Ghost,Roon.io,,,Roon.io : blogging platform,Closed,https://ghost.org/changelog/roon/
 16/12/2014,MongoDB,WiredTiger,,,WiredTiger : Database storage engine for MongoDB,Open,https://www.mongodb.com/press/wired-tiger
 03/03/2015,Gitlab,Gitorious (de Powow AS),,,"Gitorious : software forge, git repository management",Open,https://about.gitlab.com/blog/2015/03/03/gitlab-acquires-gitorious/
 04/03/2015,Docker,SocketPlane,,,SDN (software defined networking) API services,,https://www.businesswire.com/news/home/20150304005595/en/Docker-Acquires-SocketPlane-to-Drive-an-Open-Collaborative-Networking-Ecosystem
@@ -117,27 +117,27 @@ Date,Acquirer,Target,Amount,Currency,Main activities/assets,Proprietary/Open,Ref
 24/02/2016,Microsoft,Xamarin,500000000,USD,Mono development and services,,https://blogs.microsoft.com/blog/2016/02/24/microsoft-to-acquire-xamarin-and-empower-more-developers-to-build-apps-on-any-device/
 03/03/2016,Docker,Conductant,,,Aurora : clustering system for extremely large-scale production environments,Open,https://www.docker.com/blog/docker-welcomes-aurora-project-creators/
 15/06/2016,Samsung,Joyent,170000000,USD,"Cloud provider, Node.js, Triton Compute, SmartOS, ObjectStorage",Open,https://www.joyent.com/press/samsung-to-acquire-joyent
-22/06/2016,RedHat,3scale,,,Software for managing the use of application programming interfaces (APIs),Proprietary,https://www.redhat.com/fr/about/press-releases/red-hat-acquire-api-management-leader-3scale
-14/07/2016,Amazon,Cloud9,,,Cloud-based integrated development environment (IDE),Proprietary,https://venturebeat.com/2016/07/14/aws-acquires-collaborative-coding-company-cloud9-ide/
+22/06/2016,RedHat,3scale,,,Software for managing the use of application programming interfaces (APIs),Closed,https://www.redhat.com/fr/about/press-releases/red-hat-acquire-api-management-leader-3scale
+14/07/2016,Amazon,Cloud9,,,Cloud-based integrated development environment (IDE),Closed,https://venturebeat.com/2016/07/14/aws-acquires-collaborative-coding-company-cloud9-ide/
 01/08/2016,Magento,RJ Metrics,,,Cloud-based analytics platform tuned for digital commerce business intelligence,,https://magento.com/news-room/press-releases/magento-commerce-acquires-rjmetrics
-18/08/2016,Mapbox,Human.co,,,Passive fitness tracking app,Proprietary,https://blog.mapbox.com/mapbox-%EF%B8%8F-human-e116a46b78ad
+18/08/2016,Mapbox,Human.co,,,Passive fitness tracking app,Closed,https://blog.mapbox.com/mapbox-%EF%B8%8F-human-e116a46b78ad
 14/09/2016,Mirantis,TCP Cloud,,,"OpenStack, OpenContrail et Kubernetes services",,https://www.mirantis.com/company/press-center/company-news/mirantis-acquires-tcp-cloud-extend-managed-openstack-capabilities/
 15/09/2016,Elastic,Prelert,,,"Behavioral analytics technology, discovers of anomalies in large, complex datasets",,https://www.elastic.co/fr/about/press/elastic-acquires-behavioral-analytics-leader-prelert
 31/10/2016,Acutronic,Erle Robotics,,,"ROS (robot operating system), Erle-Brain",Open,https://tech.eu/brief/acutronic-erle-robotics/
 08/11/2016,SUSE,OpenAttic (de it-novum),,,Open source Ceph and storage management framework,Open,https://www.suse.com/en-us/news/suse-poised-for-greater-growth-in-software-defined-storage-market-by-acquiring-openattic-storage-management-assets-from-it-novum/
 01/12/2016,SUSE,Helion (de HPE),,,HPE Helion OpenStack + CloudFoundry,,https://www.suse.com/news/suse-acquires-openstack-iaas-and-cloud-foundry-paas-talent-and-technology-assets-from-hpe-to-accelerate-growth-and-entry-into-new-markets/
-06/12/2016,Docker,Infinit,,,Infinit : secure distributed filesystem,Proprietary,https://www.docker.com/blog/docker-acquires-infinit/
+06/12/2016,Docker,Infinit,,,Infinit : secure distributed filesystem,Closed,https://www.docker.com/blog/docker-acquires-infinit/
 18/01/2017,Google,Fabric (de Twitter),,,"FastLane development automation system (dans Fabric, + Crashlytics)",Open,https://techcrunch.com/2017/01/18/google-twitter-fabric/
-28/02/2017,Mozilla,Read it Later Inc,,,Pocket : human-powered content recommendation system,Proprietary,https://blog.mozilla.org/en/mozilla/news/mozilla-acquires-pocket/
+28/02/2017,Mozilla,Read it Later Inc,,,Pocket : human-powered content recommendation system,Closed,https://blog.mozilla.org/en/mozilla/news/mozilla-acquires-pocket/
 15/03/2017,Gitlab,Gitter,,,Gitter : a place to connect the open source and software development community,,https://about.gitlab.com/blog/2017/03/15/gitter-acquisition/
 10/04/2017,Microsoft,Deis,,,"Deis Workflow: Kubernetes PaaS, adds developer-friendly layer to k8s cluster",Open,https://blogs.microsoft.com/blog/2017/04/10/microsoft-acquire-deis-help-companies-innovate-containers/
 10/04/2017,Redis Labs,Redis Weekly,,,"Redis news, articles, tools and libraries",,https://redislabs.com/press/redis-labs-acquires-redis-weekly-extend-support-redis-community/
 18/04/2017,Magento,Shopial,,,Shopial: turns your online shop into a Facebook shop in just 3 clicks,,https://technical.ly/philly/2017/04/18/magento-acquired-shopial/
-25/05/2017,RedHat,Codenvy,,,Eclipse based cloud-native developer tool that allows multiple developers to collaborate,Proprietary,https://www.redhat.com/en/about/press-releases/red-hat-acquire-codenvy-provider-agile-and-cloud-native-development-tools
+25/05/2017,RedHat,Codenvy,,,Eclipse based cloud-native developer tool that allows multiple developers to collaborate,Closed,https://www.redhat.com/en/about/press-releases/red-hat-acquire-codenvy-provider-agile-and-cloud-native-development-tools
 25/05/2017,Rackspace,TriCore Solutions,,,"ERP (Oracle, SAP,…) specialist",,https://www.rackspace.com/newsroom/rackspace-announces-agreement-acquire-tricore-solutions
 22/06/2017,Elastic,Opbeat,,,Opbeat : application performance monitoring (APM) software,Open,https://www.elastic.co/blog/welcome-opbeat-to-the-elastic-family
 29/06/2017,Sonatype,Vor Security,,,OSS Index :  free online index of known open source software vulnerabilities,,https://fr.sonatype.com/press-releases/sonatype-acquires-vor-security-announces-lifecycle-xc
-31/07/2017,RedHat,Permabit,,,"Software for data deduplication, compression and thin provisioning",Proprietary,https://www.redhat.com/en/about/press-releases/red-hat-acquires-permabit-assets-eases-barriers-cloud-portability-data-deduplication-technology
+31/07/2017,RedHat,Permabit,,,"Software for data deduplication, compression and thin provisioning",Closed,https://www.redhat.com/en/about/press-releases/red-hat-acquires-permabit-assets-eases-barriers-cloud-portability-data-deduplication-technology
 11/09/2017,Rackspace,Datapipe,,,Public cloud services,,https://www.rackspace.com/newsroom/rackspace-announces-agreement-acquire-datapipe
 20/09/2017,Puppet,Distelli,,,Continuous delivery platform for developers and enterprises,,https://www.globenewswire.com/news-release/2017/09/20/1230031/0/en/Puppet-Acquires-Distelli-to-Fuel-the-New-Age-of-Automation-Across-the-Software-Delivery-Lifecycle.html
 02/11/2017,Synopsys,BlackDuck,565000000,USD,Automated solutions for securing and managing open source software.,,https://news.synopsys.com/2017-11-02-Synopsys-to-Enhance-Software-Integrity-Platform-with-Acquisition-of-Black-Duck-Software
@@ -149,7 +149,7 @@ Date,Acquirer,Target,Amount,Currency,Main activities/assets,Proprietary/Open,Ref
 08/01/2018,Salesforce,Attic Labs,,,Noms : decentralized database,Open,https://techcrunch.com/2018/01/08/salesforce-acquires-attic-labs-the-startup-behind-decentralized-database-noms/
 30/01/2018,RedHat,CoreOS,250000000,USD,"CoreOS, Tectonic, k8s management platform, Quay, container registry",Open,https://www.redhat.com/en/about/press-releases/red-hat-acquire-coreos-expanding-its-kubernetes-and-containers-leadership
 30/01/2018,Gitlab,Gemnasium,,,Services to mitigate security vulnerabilities in open source code,,https://about.gitlab.com/press/releases/2018-01-30-gemnasium-acquisition.html
-27/03/2018,MariaDB,MammothDB,,,MammothDB : distributed relational DBMS that runs on Hadoop Distributed File System,Proprietary,https://mariadb.com/newsroom/press-releases/mariadb-bolsters-analytics-capabilities-through-mammothdb-acquisition/
+27/03/2018,MariaDB,MammothDB,,,MammothDB : distributed relational DBMS that runs on Hadoop Distributed File System,Closed,https://mariadb.com/newsroom/press-releases/mariadb-bolsters-analytics-capabilities-through-mammothdb-acquisition/
 01/05/2018,Salesforce,Mulesoft,6500000000,USD,Mule ESB : entreprise bus (tools interoperability),Open,https://www.mulesoft.com/press-center/salesforce-acquisition-completed
 15/05/2018,Google,Cask Data,,,Cask Data Application Platform (CDAP) to make big data solutions easy,Open,https://techcrunch.com/2018/05/16/google-acquires-cask-data-to-beef-up-its-tools-for-building-and-running-big-data-analytics/
 17/05/2018,Rackspace,RelationEdge,,,Consultance Salesforce,,https://www.rackspace.com/newsroom/rackspace-acquires-relationedge-to-broaden-application-services-portfolio
@@ -168,17 +168,17 @@ Date,Acquirer,Target,Amount,Currency,Main activities/assets,Proprietary/Open,Ref
 28/10/2018,IBM,RedHat,34000000000,USD,"RHEL, OpenShift, and several other software solutions",Open,https://newsroom.ibm.com/2018-10-28-IBM-To-Acquire-Red-Hat-Completely-Changing-The-Cloud-Landscape-And-Becoming-Worlds-1-Hybrid-Cloud-Provider
 06/11/2018,VMWare,Heptio,550000000,USD,"Services autour de Kubernetes + Sonobuoy, Contour, Gimbal, Ark and ksonnet",Open,https://blog.heptio.com/heptio-will-be-joining-forces-with-vmware-on-a-shared-cloud-native-mission-b01225b1bc9e
 07/11/2018,Talend,Stitch,60000000,USD,Self-Service Cloud Data Integration,,https://www.talend.com/about-us/press-releases/talend-acquires-stitch-a-leader-in-self-service-cloud-data-integration/
-28/11/2018,RedHat,NooBaa,,,Noobaa Storage : software defined storage (like S3),Proprietary,https://www.redhat.com/en/about/press-releases/red-hat-acquires-hybrid-cloud-data-management-provider-noobaa
+28/11/2018,RedHat,NooBaa,,,Noobaa Storage : software defined storage (like S3),Closed,https://www.redhat.com/en/about/press-releases/red-hat-acquires-hybrid-cloud-data-management-provider-noobaa
 22/01/2019,Perforce,Rogue Wave Software,,,Via OpenLogic : services and support for several open-source technologies,,https://www.perforce.com/press-releases/clearlake-capital-backed-perforce-software-acquire-rogue-wave-software
 19/02/2019,Instructure,Portfolium,43000000,USD,"Portfolios to showcase projects, skills and credentials to potential employers",,https://www.prnewswire.com/news-releases/instructure-enters-into-agreement-to-acquire-student-success-network-portfolium-300798240.html
 02/04/2019,Instructure,MasteryConnect,42500000,USD,MasteryConnect : assessment that supports personalized and mastery-based learning,,https://www.prnewswire.com/news-releases/instructure-to-acquire-partner-masteryconnect-to-launch-new-era-of-innovative-assessment-300822663.html
-03/04/2019,Redis Labs,RDBTools (de HashedIn),,,RDBTools : Redis data visualizer,Proprietary,https://redislabs.com/blog/rdbtools/
+03/04/2019,Redis Labs,RDBTools (de HashedIn),,,RDBTools : Redis data visualizer,Closed,https://redislabs.com/blog/rdbtools/
 24/04/2019,MongoDB,Realm,39000000,USD,Realm.io : mobile SGBD/database (sqlite alternative),Open,https://www.mongodb.com/press/mongodb-strengthens-mobile-offerings-with-acquisition-of-realm
 09/05/2019,F5,NGINX,670000000,USD,NGINX webserver,Open,https://www.f5.com/fr_fr/company/news/press-releases/f5-acquires-nginx-to-bridge-netops-devops
-23/05/2019,Automattic,Prospress,,,Woocommerce Subscriptions : recurring incomes (extension woocommerce),Proprietary,https://www.prnewswire.com/news-releases/automattic-acquires-prospress-developer-of-woocommerce-subscriptions-300855660.html
+23/05/2019,Automattic,Prospress,,,Woocommerce Subscriptions : recurring incomes (extension woocommerce),Closed,https://www.prnewswire.com/news-releases/automattic-acquires-prospress-developer-of-woocommerce-subscriptions-300855660.html
 24/06/2019,WP Engine,Flywheel,,,WordPress hosting and management company,,https://wpengine.com/blog/wp-engine-to-acquire-flywheel/
 21/08/2019,Elastic,Perched LLC,,,Security Training and Consulting Company,,https://www.elastic.co/fr/about/press/elastic-acquires-perched-a-security-training-and-consulting-company
-08/10/2019,Elastic,Endgame,234000000,USD,"Endpoint protection, detection, and response SIEM",Proprietary,https://www.businesswire.com/news/home/20191008005937/en/Elastic-Completes-the-Acquisition-of-Endgame-a-Leader-in-Endpoint-Protection
+08/10/2019,Elastic,Endgame,234000000,USD,"Endpoint protection, detection, and response SIEM",Closed,https://www.businesswire.com/news/home/20191008005937/en/Elastic-Completes-the-Acquisition-of-Endgame-a-Leader-in-Endpoint-Protection
 21/10/2019,Alfresco,Pernexas,,,Alfresco-SAP connectors,,https://www.alfresco.com/news/press-releases/alfresco-acquires-integration-specialist-pernexas
 04/11/2019,Rackspace,Onica,323000000,USD,Cloud-native consulting and management service company,,https://www.rackspace.com/newsroom/rackspace-acquire-onica-cloud-native-consulting-and-managed-services-company
 13/11/2019,Mirantis,Docker Entreprise,,,SaaS services for Docker,,https://www.mirantis.com/company/press-center/company-news/mirantis-acquires-docker-enterprise/
@@ -186,8 +186,8 @@ Date,Acquirer,Target,Amount,Currency,Main activities/assets,Proprietary/Open,Ref
 30/12/2019,VMWare,Pivotal Software,2700000000,USD,Pivotal Greenplum Database,Open,https://www.vmware.com/company/news/releases/vmw-newsfeed.VMware-Completes-Acquisition-of-Pivotal.3b73174e-4485-4ff9-8c5d-56c54de6db86.html
 22/01/2020,Kaltura,Newrow,,,Video conferencing and collaboration platform Newrow,,https://corp.kaltura.com/press/kaltura-acquires-newrow-to-deliver-new-meeting-experiences/
 16/03/2020,Github,npm,,,npm : package manager for node.js,Open,https://github.blog/2020-03-16-npm-is-joining-github/
-17/03/2020,Alfresco,Technology Services Group,,,Enterprise Content Management software and services firm,Proprietary,https://www.alfresco.com/news/press-releases/alfresco-acquires-content-services-specialist-technology-services-group
-13/05/2020,Sonarsource,RIPS Technologies,,,RIPS : PHP/Java static code analysis software to detect security vulnerabilities,Proprietary,https://www.prnewswire.com/news-releases/sonarsource-acquires-rips-technologies-and-accelerates-in-the-application-security-market-301058514.html
+17/03/2020,Alfresco,Technology Services Group,,,Enterprise Content Management software and services firm,Closed,https://www.alfresco.com/news/press-releases/alfresco-acquires-content-services-specialist-technology-services-group
+13/05/2020,Sonarsource,RIPS Technologies,,,RIPS : PHP/Java static code analysis software to detect security vulnerabilities,Closed,https://www.prnewswire.com/news-releases/sonarsource-acquires-rips-technologies-and-accelerates-in-the-application-security-market-301058514.html
 11/06/2020,Gitlab,Peach Tech,,,Software firm specializing in protocol fuzz testing,,https://about.gitlab.com/press/releases/2020-06-11-gitlab-acquires-peach-tech-and-fuzzit-to-expand-devsecops-offering.html
 11/06/2020,Gitlab,Fuzzit,,,Fuzzit  :a continuous fuzz testing solution providing coverage-guided testing,,https://about.gitlab.com/press/releases/2020-06-11-gitlab-acquires-peach-tech-and-fuzzit-to-expand-devsecops-offering.html
 08/07/2020,SUSE,Rancher Labs,600000000,USD,Rancher :  Kubernetes container management platform,Open,https://www.suse.com/news/suse-acquires-rancher/
@@ -196,13 +196,13 @@ Date,Acquirer,Target,Amount,Currency,Main activities/assets,Proprietary/Open,Ref
 09/09/2020,Hyland,Alfresco,700000000,USD,Alfresco : content management system (CMS),Open,https://news.hyland.com/hyland-completes-acquisition-of-alfresco/
 29/09/2020,VMWare,SaltStack,,,Salt : orchestration software,Open,https://www.vmware.com/company/news/releases/vmw-newsfeed.VMware-Empowers-Customers-to-Build-their-Multi-Cloud-Future.7e5f88c7-8554-4ea0-9a7b-c254a1679d57.html
 30/09/2020,Element,Gitter (de Gitlab),,,Gitter : a place to connect the open source and software development community,,https://element.io/blog/gitter-is-joining-element/
-19/10/2020,Snyk,DeepCode,,,"DeepCode, a provider of real-time semantic code analysis powered by AI",Proprietary,https://snyk.io/news/snyk-announces-acquisition-of-deepcode/
+19/10/2020,Snyk,DeepCode,,,"DeepCode, a provider of real-time semantic code analysis powered by AI",Closed,https://snyk.io/news/snyk-announces-acquisition-of-deepcode/
 11/11/2020,Rackspace,Bright Skies,,,Cloud transformation provider,,https://www.pressebox.com/pressrelease/bright-skies-gmbh/Rackspace-Technology-Acquires-Bright-Skies-a-Leading-Cloud-Transformation-Provider-Based-in-Germany/boxid/1031602
 07/12/2020,Automattic,MailPoet,,,Popular email marketing solution for WordPress,Open,https://www.mailpoet.com/blog/mailpoet-joins-woocommerce/
 10/12/2020,New Relic,Pixie Labs,,,Pixie :Kubernetes containers monitoring and management tool,Open,https://newrelic.com/press-release/20201210
 10/12/2020,Instructure,Certica,,,K12 assessment/item banks and analytics,,https://www.prnewswire.com/news-releases/instructure-to-acquire-certica-solutions-to-make-learning-personal-for-every-student-301189980.html
-07/01/2021,RedHat,StackRox,100000000,USD,Security mechanisms on top of Kubernetes,Proprietary,https://www.redhat.com/fr/about/press-releases/red-hat-acquire-kubernetes-native-security-leader-stackrox
-08/02/2021,Automattic (WPVIP),Parse.ly,,,Web analytics and content optimization software,Proprietary,https://wpvip.com/2021/02/08/parsely-acquisition/
+07/01/2021,RedHat,StackRox,100000000,USD,Security mechanisms on top of Kubernetes,Closed,https://www.redhat.com/fr/about/press-releases/red-hat-acquire-kubernetes-native-security-leader-stackrox
+08/02/2021,Automattic (WPVIP),Parse.ly,,,Web analytics and content optimization software,Closed,https://wpvip.com/2021/02/08/parsely-acquisition/
 10/03/2021,Thoma Bravo,Talend,2400000000,USD,Data integration open-source software,Open,https://www.talend.com/about-us/press-releases/talend-to-be-acquired-by-thoma-bravo-in-a-2-4-billion-transaction/
 16/03/2021,Sonatype,MuseDev,,,MuseDev : an innovative code analysis platform (incident response),Open,https://fr.sonatype.com/press-releases/sonatype-acquires-musedev
 17/03/2021,Instaclustr,Credativ,,,"PostgreSQL, Kubernetes, Debian,… services",,https://www.instaclustr.com/press-releases/instaclustr-acquires-credativ/
