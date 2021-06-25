@@ -97,8 +97,9 @@ with open("acquisitions.tex", "w") as texfile:
         texfile.write("\t\\rowcolor{gray!25}\\textbf{Date}&\\textbf{Acquirer}&\\textbf{Acquiree}&\\textbf{Price}&\\textbf{Main activities/assets}&\\textbf{Source}&\\textbf{Ref.}\\\\\n\t\hline\n")
 
     def table_footer(idx1, idx2):
+        table_count = (idx1 - 1) // 44 + 1
         texfile.write("\\end{tabular}\n\\end{scriptsize}\n")
-        texfile.write("\\caption{{List of main OSS company acquisitions ({} to {}/{})}}\n\\end{{table}}\n".format(idx1, idx2, csv_length))
+        texfile.write("\\caption{{List of main OSS company acquisitions ({} to {}/{})}}\n\\label{{table_oss_acquisitions_{}}}\n\\end{{table}}\n".format(idx1, idx2, csv_length, table_count))
 
     table_header()
 
