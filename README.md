@@ -20,6 +20,10 @@ The current fields in the table are:
 - Closed/Open: Are the acquiree main assets open-source or closed-source software ?
 - Reference : A link to the press release or a news article that relates the acquisition.
 
+# License
+
+This work is provided under Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+
 # How to contribute
 
 Pull-requests are welcome if you want to bring additions, fixes, ...
