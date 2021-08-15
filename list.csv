@@ -1,10 +1,10 @@
 Date,Acquirer,Target,Amount,Currency,Main activities/assets,Closed/Open,Reference
 11/01/2000,RedHat,Cygnus Solutions Limited,674444000,USD,"gcc, gdb, binutils, cygwin,…",Open,https://www.redhat.com/fr/about/press-releases/press-cygnusacquisition
+11/01/2000,RedHat,Hell's Kitchen Systems,85624000,USD,E-commerce payment software,Closed,https://www.redhat.com/fr/about/press-releases/press-hellskitchen
 26/05/2000,RedHat,Bluecurve,37107000,USD,Server Performance Management Solution,,https://www.redhat.com/fr/about/press-releases/press-bluecurveacquisition
 14/06/2000,Akopia,Minivend,,,High-performance commerce engine also written in Perl and released under the GPL.,Open,https://sourceforge.net/p/tallyman/mailman/tallyman-announce/
 01/08/2000,RedHat,Wirespeed Communications,83963000,USD,Network and telecommunications components for embedded systems software,,https://www.redhat.com/fr/about/press-releases/press-wirespeedacquisition
 29/08/2000,Caldera,SCO Server Software Division,,,Linux distributions editor,,https://gcn.com/articles/2000/08/29/distributor-caldera-acquires-part-of-unix-vendor.aspx
-15/08/2000,RedHat,Hell's Kitchen Systems,85624000,USD,E-commerce payment software,Open,https://www.redhat.com/fr/about/press-releases/press-hellskitchen
 13/09/2000,RedHat,C2Net,42700000,USD,Stronghold secure webserver software,Closed,https://www.redhat.com/en/about/press-releases/press-c2netfinished
 05/02/2001,RedHat,Akopia,,,Interchange e-commerce platform,Open,https://www.redhat.com/en/about/press-releases/133
 28/02/2001,RedHat,Planning Technologies,47000000,USD,Infrastructure consulting,,https://www.redhat.com/fr/about/press-releases/137
@@ -14,13 +14,13 @@ Date,Acquirer,Target,Amount,Currency,Main activities/assets,Closed/Open,Referenc
 15/10/2002,RedHat,NOCpulse,,,NOCpulse Command Center,Closed,https://www.cnet.com/news/red-hat-reels-in-new-network-services/
 04/08/2003,Novell,Ximian,,,"Mono and desktop apps, GNOME support",Open,https://www.zdnet.com/article/novell-acquires-ximian/
 04/11/2003,Novell,SUSE,210000000,USD,SUSE Linux Enteprise,Open,https://www.suse.com/fr-fr/news/novell_closing/
-18/12/2003,RedHat,Sistina Software,31000000,USD,"Global File System (GFS), logical volume management (LVM), device mapper (DM)",Closed,https://www.redhat.com/fr/about/press-releases/press-sistina
-30/09/2004,RedHat,Netscape Enterprise Solutions,,,Netscape Enterprise Suite : Directory Server and Certificate Management System,Open,https://www.redhat.com/fr/about/press-releases/press-netscapeenterprisesolutions
+18/12/2003,RedHat,Sistina Software,31000000,USD,"Global File System (GFS), logical volume management (LVM), device mapper (DM)",Mixed,https://www.redhat.com/fr/about/press-releases/press-sistina
+30/09/2004,RedHat,Netscape Enterprise Solutions,,,Netscape Enterprise Suite : Directory Server and Certificate Management System,Closed,https://www.redhat.com/fr/about/press-releases/press-netscapeenterprisesolutions
 10/05/2005,IBM,Gluecode,,,Joe : infrastructure software based on Apache Geronimo,,https://www.computerworld.com/article/2556275/update--ibm-buys-open-source-developer-gluecode.html
 16/08/2005,Google,Android,50000000,USD,Android OS,Closed,https://www.cnet.com/news/google-buys-android/
 09/11/2005,Google,Skia,,,Skia Graphics Engine is an open-source graphics library,Open,https://www.crunchbase.com/acquisition/google-acquires-skia--ad6cccc9
 14/02/2006,Oracle,Sleepycat Software,,,Berkeley DB (BDB),Open,https://www.oracle.com/corporate/pressrelease/oracle-buys-sleepycat-021406.html
-10/04/2006,RedHat,Jboss Developer,420000000,USD,Jboss Application Server,Closed,https://www.redhat.com/fr/about/press-releases/jboss
+10/04/2006,RedHat,Jboss Developer,420000000,USD,Jboss Application Server,Open,https://www.redhat.com/fr/about/press-releases/jboss
 13/04/2007,Sun Microsystems,SavaJe,,,Java-based operating system for cellphones,Closed,https://www.rcrwireless.com/20070413/archived-articles/sun-buys-up-savaje-but-motive-remains-unclear-2
 02/06/2007,RedHat,MetaMatrix,,,MetaMatrix (Enterprise Information Integration (EII)),Closed,https://www.redhat.com/fr/blog/red-hat-completes-metamatrix-transaction
 19/06/2007,RedHat,Mobicents,,,Open Source VoIP Platform,Open,https://www.redhat.com/fr/blog/red-hat-and-mobicents-making-open-source-strategic-for-telecom-carriers
@@ -86,12 +86,12 @@ Date,Acquirer,Target,Amount,Currency,Main activities/assets,Closed/Open,Referenc
 30/04/2014,RedHat,Inktank Storage,175000000,USD,Ceph : distributed storage,Open,https://www.redhat.com/fr/about/press-releases/red-hat-acquire-inktank-provider-ceph
 02/05/2014,Kaltura,Tvinci,,,Tvinci : global provider of Pay OTT TV services (tv par internet),,https://corp.kaltura.com/press/kaltura-acquires-leading-pay-ott-technology-provider-tvinci-reinforces-position-as-video-powerhouse/
 15/05/2014,Coverity,Kalistick,,,Cloud-based software solutions to identify tests to be run by Quality Assurance (QA),,https://news.synopsys.com/2014-05-15-Synopsys-Subsidiary-Coverity-Acquires-Kalistick
-15/05/2014,Oracle,Greenbytes,,,Services for ZFS (proprietary since 2010?),,https://www.oracle.com/corporate/acquisitions/greenbytes/
-18/06/2014,RedHat,eNovance,70000000,EUR,OpenStack (cloud computing platform) services and development,,https://www.redhat.com/fr/about/press-releases/red-hat-acquire-enovance-leader-openstack-integration-services
+15/05/2014,Oracle,Greenbytes,,,Services for ZFS (Closed since 2010?),,https://www.oracle.com/corporate/acquisitions/greenbytes/
+18/06/2014,RedHat,eNovance,70000000,EUR,OpenStack (cloud computing platform) services and development,Open,https://www.redhat.com/fr/about/press-releases/red-hat-acquire-enovance-leader-openstack-integration-services
 23/07/2014,Docker,Orchad Labs,,,"Fig (Docker-compose), container orchestration, Docker services",Open,https://www.docker.com/blog/welcoming-the-orchard-and-fig-team/
 11/09/2014,HP,Eucalyptus Systems,100000000,USD,Eucalyptus : software for building private and hybrid enterprise clouds,Open,https://www8.hp.com/us/en/hp-news/press-release.html?id=1790521
 15/09/2014,Micro-Focus,Attachmate,1200000000,USD,"SUSE, Ximian (Mono, …),…",Open,https://www.attachmate.com/company/news/press/2014/micro-focus-international-completes-merger-with-the-attachmate-group.html
-18/09/2014,RedHat,FeedHenry,82000000,USD,"Platform to design, develop, deploy and manage applications for mobile devices",Open,https://www.redhat.com/fr/about/press-releases/red-hat-acquire-feedhenry-adds-enterprise-mobile-application-platform
+18/09/2014,RedHat,FeedHenry,82000000,USD,"Platform to design, develop, deploy and manage applications for mobile devices",Closed,https://www.redhat.com/fr/about/press-releases/red-hat-acquire-feedhenry-adds-enterprise-mobile-application-platform
 07/10/2014,Docker,Koality,,,Continious integration solution,,https://www.businesswire.com/news/home/20141007005035/en/Docker-Acquires-Koality-to-Accelerate-Development-of-Docker-Hub-Enterprise
 02/12/2014,Ghost,Roon.io,,,Roon.io : blogging platform,Closed,https://ghost.org/changelog/roon/
 16/12/2014,MongoDB,WiredTiger,,,WiredTiger : Database storage engine for MongoDB,Open,https://www.mongodb.com/press/wired-tiger
@@ -133,7 +133,7 @@ Date,Acquirer,Target,Amount,Currency,Main activities/assets,Closed/Open,Referenc
 10/04/2017,Microsoft,Deis,,,"Deis Workflow: Kubernetes PaaS, adds developer-friendly layer to k8s cluster",Open,https://blogs.microsoft.com/blog/2017/04/10/microsoft-acquire-deis-help-companies-innovate-containers/
 10/04/2017,Redis Labs,Redis Weekly,,,"Redis news, articles, tools and libraries",,https://redislabs.com/press/redis-labs-acquires-redis-weekly-extend-support-redis-community/
 18/04/2017,Magento,Shopial,,,Shopial: turns your online shop into a Facebook shop in just 3 clicks,,https://technical.ly/philly/2017/04/18/magento-acquired-shopial/
-25/05/2017,RedHat,Codenvy,,,Eclipse based cloud-native developer tool that allows multiple developers to collaborate,Closed,https://www.redhat.com/en/about/press-releases/red-hat-acquire-codenvy-provider-agile-and-cloud-native-development-tools
+25/05/2017,RedHat,Codenvy,,,Eclipse based cloud-native developer tool that allows multiple developers to collaborate,Open,https://www.redhat.com/en/about/press-releases/red-hat-acquire-codenvy-provider-agile-and-cloud-native-development-tools
 25/05/2017,Rackspace,TriCore Solutions,,,"ERP (Oracle, SAP,…) specialist",,https://www.rackspace.com/newsroom/rackspace-announces-agreement-acquire-tricore-solutions
 22/06/2017,Elastic,Opbeat,,,Opbeat : application performance monitoring (APM) software,Open,https://www.elastic.co/blog/welcome-opbeat-to-the-elastic-family
 29/06/2017,Sonatype,Vor Security,,,OSS Index :  free online index of known open source software vulnerabilities,,https://fr.sonatype.com/press-releases/sonatype-acquires-vor-security-announces-lifecycle-xc
